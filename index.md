@@ -25,6 +25,10 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+# Anjali's first CS193 Lab
+- CS Organizations
+- Github
+- Programming
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
